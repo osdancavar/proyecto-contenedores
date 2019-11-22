@@ -1,0 +1,7 @@
+C:\Users\OSCAR\Documents\Visual Studio 2010\Projects\proyecto\proyecto\bin\Release\proyecto.exe
+C:\Users\OSCAR\Documents\Visual Studio 2010\Projects\proyecto\proyecto\bin\Release\proyecto.pdb
+C:\Users\OSCAR\Documents\Visual Studio 2010\Projects\proyecto\proyecto\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\OSCAR\Documents\Visual Studio 2010\Projects\proyecto\proyecto\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\OSCAR\Documents\Visual Studio 2010\Projects\proyecto\proyecto\obj\x86\Release\proyecto.csproj.GenerateResource.Cache
+C:\Users\OSCAR\Documents\Visual Studio 2010\Projects\proyecto\proyecto\obj\x86\Release\proyecto.exe
+C:\Users\OSCAR\Documents\Visual Studio 2010\Projects\proyecto\proyecto\obj\x86\Release\proyecto.pdb
